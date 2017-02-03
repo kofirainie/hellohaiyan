@@ -6,3 +6,4 @@
 验证git push -u origin
 验证git push -u origin，提交到master2
 验证git push origin，提交到origin
+验证git push master2，提交到master2
