@@ -9,3 +9,4 @@
 验证git push master2，提交到master2
 验证git push 提交
 比如新建了一个叫dev的分支，而github网站上还没有，可以直接：git push -u origin dev这样一个新分支就创建好了。
+验证证明：git push -u origin dev是行不通的。
