@@ -1,3 +1,5 @@
 新 计划表VC分块是是
 测试add的
 测试git remote add origin https://github.com/XXX(username)/YYYY(projectname).git
+
+将new2文件的修改提交到origin远程服务器中。
