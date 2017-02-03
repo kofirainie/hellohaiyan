@@ -5,3 +5,4 @@
 将new1的修改添加到master2的remote远程服务器中
 验证git push -u origin
 验证git push -u origin，提交到master2
+验证git push origin，提交到origin
