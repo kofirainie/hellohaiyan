@@ -2,3 +2,4 @@
 测试add的
 测试git remote add origin https://github.com/XXX(username)/YYYY(projectname).git
 基于master的分支的new1的修改
+将new1的修改添加到master2的remote远程服务器中
