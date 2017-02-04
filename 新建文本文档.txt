@@ -5,3 +5,5 @@
 将new2文件的修改提交到origin远程服务器中。
 将new2文件的修改提交到master2远程服务器中。
 切换到origin服务器。
+
+这个是从origin服务器分支new2拉取的数据，而不是从本地拉取的数据，因为用了git checkout -b new8 origin/new2,而不是git checkout -b new8 new2
