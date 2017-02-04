@@ -12,3 +12,4 @@
 验证证明：git push -u origin dev是行不通的。
 git push -u origin master:master表明将本地的master分支（冒号前）push到github的master分支（冒号后）。
 new3再次修改。
+测试看是否可以提交到new1.
