@@ -7,3 +7,18 @@
 切换到origin服务器。
 
 先提交本地，不提交到远程，因为我要新建分支new8来测试拉取数据时来自本地还是来自github
+
+git中Please enter a commit message to explain why this merge is necessary.，gitmerge
+
+Please enter a commit message to explain why this merge is necessary.
+
+请输入提交消息来解释为什么这种合并是必要的
+git 在pull或者合并分支的时候有时会遇到这个界面。可以不管(直接下面3,4步)，如果要输入解释的话就需要:
+
+1.按键盘字母 i 进入insert模式
+
+2.修改最上面那行黄色合并信息,可以不修改
+
+3.按键盘左上角"Esc"
+
+4.输入":wq",注意是冒号+wq,按回车键即可
