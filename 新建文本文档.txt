@@ -15,3 +15,4 @@ new3再次修改。
 测试看是否可以提交到new1.
 用命令git checkout -b new4 new3，新建一个分支new4，同时切换到这个分支
 还是出现'origin/new1'。
+提交到origin
