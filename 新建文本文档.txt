@@ -13,3 +13,4 @@
 git push -u origin master:master表明将本地的master分支（冒号前）push到github的master分支（冒号后）。
 new3再次修改。
 测试看是否可以提交到new1.
+用命令git checkout -b new4 new3，新建一个分支new4，同时切换到这个分支
