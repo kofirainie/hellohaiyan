@@ -1,18 +1,7 @@
 新 计划表VC分块是是
 测试add的
 测试git remote add origin https://github.com/XXX(username)/YYYY(projectname).git
-基于master的分支的new1的修改
-将new1的修改添加到master2的remote远程服务器中
-验证git push -u origin
-验证git push -u origin，提交到master2
-验证git push origin，提交到origin
-验证git push master2，提交到master2
-验证git push 提交
-比如新建了一个叫dev的分支，而github网站上还没有，可以直接：git push -u origin dev这样一个新分支就创建好了。
-验证证明：git push -u origin dev是行不通的。
-git push -u origin master:master表明将本地的master分支（冒号前）push到github的master分支（冒号后）。
-new3再次修改。
-测试看是否可以提交到new1.
-用命令git checkout -b new4 new3，新建一个分支new4，同时切换到这个分支
-还是出现'origin/new1'。
-提交到origin
+
+将new2文件的修改提交到origin远程服务器中。
+将new2文件的修改提交到master2远程服务器中。
+切换到origin服务器。378efd8cce6cc9fe5b2fc817bcaec8a5938e3bb9
