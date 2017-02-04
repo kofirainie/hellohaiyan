@@ -1,3 +1,5 @@
 新 计划表VC分块是是
 测试add的
 测试git remote add origin https://github.com/XXX(username)/YYYY(projectname).git
+
+新建new7分支，将本地的master的数据复制给new7，此时master有5次提交，那么此次提交有6次。
